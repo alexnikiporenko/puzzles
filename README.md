@@ -6,4 +6,4 @@ Leetcode puzzles 1: 9, 14, 20, 26, 27, 35, 66, 69, 88, 137, 704, 189, 977, 283, 
 
 Leetcode puzzles 2: 1, 2, 5, 15, 49, 73, 94, 103, 105, 160, 328, 334, 1551
 
-Also Codility puzzles from https://app.codility.com/programmers/lessons/1-iterations/.
+Also Codility puzzles from https://app.codility.com/programmers/.
